@@ -10,7 +10,7 @@
 </p>
 
   <h3 align="left">Technologies for FrontEnd Development:</h3>
-  <p align="left" gap="10">
+  <p align="left" gap="10px">
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <!-- CSS -->
@@ -28,7 +28,7 @@
   <!-- REACT -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-  <h3 align="left">Adobe Programs for Web Design:</h3>
+  <h3 align="left">Programs for Web Design:</h3>
   <p align="left"> 
   <!-- ILLUSTRATOR -->
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
