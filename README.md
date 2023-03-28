@@ -18,11 +18,21 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
 ---
+<div align="left">
+
 [![](https://visitcount.itsvg.in/api?id=ruggerifrancesco&icon=2&color=1)](https://visitcount.itsvg.in)
+
+</div>
+
+<div align="right">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.rugge) 
 
 </div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
