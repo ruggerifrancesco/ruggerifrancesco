@@ -2,7 +2,6 @@
 <h4 align="center">I'm a professional and passionate <em>FullStack Web Developer</em> from Italy. If you want to know more about me, i suggest to you to visit my personal portfolio website, or you can see my projects in my repositories. Enjoy watching :P</h4>
 
 <p align="center">
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.rugge) 
 
