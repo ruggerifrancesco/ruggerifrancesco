@@ -27,10 +27,7 @@
   <!-- BOOTSTRAP -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <!-- REACT -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/iconsreact/react-original-wordmarksvg" alt="react" width="40" height="40"/> </a> 
-
-  </p> 
-
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
   <h3 align="left">Adobe Programs for Web Design:</h3>
   <p align="left"> 
@@ -38,8 +35,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logosadobe_illustrator/ adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <!-- ADOBE XD -->
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-  
-  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
