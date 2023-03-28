@@ -29,7 +29,7 @@
 
 <div align="right">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.rugge) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white = width=100)](https://instagram.com/dev.rugge) 
 
 </div>
 
