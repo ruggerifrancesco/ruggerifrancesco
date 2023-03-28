@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">A passionate frontend developer from Ialy</h3>
+<h1 align="center">Hi 👋, I'm Francesco Ruggeri</h1>
+<h3 align="center">I'm a professional and passionate frontend developer from Italy. If you want to know more about me, i suggest to you to visit my personal portfolio website, or you can see my projects in my repositories. Enjoy watching :P</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruggerifrancescc&label=Profile%20views&color=0e75b6&style=flat" alt="ruggerifrancescc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruggerifrancesco" alt="ruggerifrancesco" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruggerifrancesco" alt="ruggerifrancesco" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
