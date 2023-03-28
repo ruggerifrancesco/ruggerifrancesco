@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco Ruggeri</h1>
-<h4 align="center">I'm a professional and passionate frontend developer from Italy. If you want to know more about me, i suggest to you to visit my personal portfolio website, or you can see my projects in my repositories. Enjoy watching :P</h4>
+<h4 align="center">I'm a professional and passionate <em>FullStack Web Developer</em> from Italy. If you want to know more about me, i suggest to you to visit my personal portfolio website, or you can see my projects in my repositories. Enjoy watching :P</h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruggerifrancesco" alt="ruggerifrancesco" /></a> </p>
 
