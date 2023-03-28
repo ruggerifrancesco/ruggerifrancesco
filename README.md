@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco Ruggeri</h1>
-<h3 align="center">I'm a professional and passionate frontend developer from Italy. If you want to know more about me, i suggest to you to visit my personal portfolio website, or you can see my projects in my repositories. Enjoy watching :P</h3>
+<h4 align="center">I'm a professional and passionate frontend developer from Italy. If you want to know more about me, i suggest to you to visit my personal portfolio website, or you can see my projects in my repositories. Enjoy watching :P</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruggerifrancescc&label=Profile%20views&color=0e75b6&style=flat" alt="ruggerifrancescc" /> </p>
 
